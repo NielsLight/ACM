@@ -70,7 +70,8 @@ void main()
 		{
 			cout << i+1<<' ';
 			numbers[i].owned = true;
-			for (int j = 0; j < n; j++)
+			int j;
+			for (j = 0; j < n; j++)
 			{
 				if ((numbers[j].owned==false)&&((numbers[i].number + numbers[j].number == avg)))
 				{
