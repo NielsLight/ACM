@@ -1,4 +1,6 @@
-﻿A. Cards
+﻿//题目
+/*
+A. Cards
 time limit per test1 second
 memory limit per test256 megabytes
 inputstandard input
@@ -35,6 +37,7 @@ Note
 In the first sample, cards are distributed in such a way that each player has the sum of numbers written on his cards equal to 8.
 
 In the second sample, all values ai are equal. Thus, any distribution is acceptable.
+*/
 
 
 
